@@ -16,7 +16,7 @@ public class AlturaPeso2 {
         if(altura<1.20){
         if(peso<=60){
             System.out.println("A classificação é A:");
-        //alterado da web
+        //alterado da netBeans
             
         }
     }
